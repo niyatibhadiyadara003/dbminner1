@@ -4,13 +4,14 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a related on SQLITE DATABASE.
 
-A few resources to get you started if this is your first Flutter project:
+## Screen shot
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<img src ='https://user-images.githubusercontent.com/102577515/172872636-b144e79a-4179-4950-be62-172e8585961c.png' width=200/>  |  <img src= "https://user-images.githubusercontent.com/102577515/172872700-99f9619b-153c-4bf9-8ff6-7c559222bbab.png" width=200/>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## GIF
+
+<img src ='https://user-images.githubusercontent.com/102577515/172872588-1d5a0f29-74ae-477c-9850-b7655395a77a.gif' width=200/>
